@@ -2,6 +2,7 @@
   "Kinger": {
     "Health": 20,
     "Armor Class": 10,
+    "Artwork": null,
     "Stats": {
       "Strength": 1,
       "Dexterity": 2,
