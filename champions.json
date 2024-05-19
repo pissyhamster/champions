@@ -1,0 +1,14 @@
+{
+  "Kinger": {
+    "Health": 20,
+    "Armor Class": 10,
+    "Stats": {
+      "Strength": 1,
+      "Dexterity": 2,
+      "Sanity": 1,
+      "Popularity": 1
+    },
+    "Abilities": ["Strike", null, null, null],
+    "Description: "Kinger is a strong contestant, average in all physical tests, mixes well with any team combination."
+  }
+}
